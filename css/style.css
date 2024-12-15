@@ -239,7 +239,6 @@ hr{
 footer{  /* Pied de page */
     display: flex;
     flex-direction: column;
-    
     width: 96em;
     height: 70px;
     bottom: 0;
@@ -251,7 +250,7 @@ footer{  /* Pied de page */
 
 footer ul{
     list-style-type: none;
-    margin-left: 20%;
+    margin-left: 28%;
    
 }
 
