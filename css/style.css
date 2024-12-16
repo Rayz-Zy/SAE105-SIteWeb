@@ -196,7 +196,7 @@ textarea {
 
 .case3{
     float: left;
-    font-size: 1.3em;
+    font-size: 1.2em;
     width: 50%;
     margin-left: 5%;
 }
@@ -232,6 +232,13 @@ iframe{
     margin-left: 10%;
 }
 
+video{
+    margin-top: 3%;
+    width: 560px;
+    height: 315px;
+    margin-left: 10%;
+}
+
 hr{
     margin-top: 25%;
 }
@@ -239,7 +246,6 @@ hr{
 footer{  /* Pied de page */
     display: flex;
     flex-direction: column;
-    
     width: 96em;
     height: 70px;
     bottom: 0;
@@ -251,7 +257,7 @@ footer{  /* Pied de page */
 
 footer ul{
     list-style-type: none;
-    margin-left: 20%;
+    margin-left: 28%;
    
 }
 
